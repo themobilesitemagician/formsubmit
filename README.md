@@ -1,4 +1,4 @@
-# simple-php-contact-form
+# a simple-php-contact-form that works!
 # I am not the author
 # I am a student learning to code, Follow "Mr Coder" on (youtube)
 # Credit where credit is due: Click below,
